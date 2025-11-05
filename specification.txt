@@ -25,7 +25,7 @@ horticulture.skk
 idiom.skk
     慣用句の辞書
 
-line-drawing-characters.skk
+box-drawing-character.skk
     罫線素片をアスキー文字を並べて表現した辞書
 
     BNF

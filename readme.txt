@@ -15,7 +15,7 @@ idiom.skk
     慣用句
     文脈を考慮した変換ができないSKKの欠点を補うことができる
 
-line-drawing-characters.skk
+box-drawing-character.skk
     罫線素片
 
 lisp.skk
