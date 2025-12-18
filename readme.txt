@@ -63,3 +63,6 @@ wrong.skk
 
     ボカロ/song.skk
         曲
+
+    ボカロ/ボカロP.skk
+        ボカロP
